@@ -8,6 +8,7 @@ int numberStudents;
 int scores[MAX_STUDENTS];
 
 int main() {
+
 	double average;
 	int sum = 0;
 	cout << "Number of students: ";
